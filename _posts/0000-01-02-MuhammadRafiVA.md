@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Halla Bol, ee sala cup nammde
 Use the left arrow to go back!
